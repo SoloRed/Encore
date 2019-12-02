@@ -1,9 +1,10 @@
+## WARNING !!!!!!!
 ## Developer Note:
 ## Stay tuned as this layouts could get updated anytime while developing
-##
-##
-## WARNING !!!!!!!
-*
+
+
+
+
 *	# Scoreboard [ ]
 *		» ID, Rank, Points, Cash, Country, FPS, Ping
 *		» "Team-display" only for Encore
