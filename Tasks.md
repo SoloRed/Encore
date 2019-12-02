@@ -12,7 +12,7 @@
 3. To code a duel system ( Encore_Duel )
 4. To code a spectators system ( Encore_Spectators )
 
-## ***** Tasks Schedule ***** ##
+## [ Tasks Schedule Information ] ##
 * Every single task must be done as soon as possible, we're not willing to wait over 2-3 months for a server.
 * Tasks prioritezed and must be done as 1,2,3.. and so on.
 * A detailed changelog about every script is required in their changelog.txt files for every single script
