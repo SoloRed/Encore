@@ -1,16 +1,16 @@
 ## 0.1 - First Tasks
 
 ## ***** MisterQuestions ***** ##
-## 1. To code a loader ( Encore_Loader )
-## 2. Font Scaling & Font Support system ( Encore_Fonts )
-## 3. Clan Manager Core //Mostly Back-end stuff// ( Encore_ClanManager )
+1. To code a loader ( Encore_Loader )
+2. Font Scaling & Font Support system ( Encore_Fonts )
+3. Clan Manager Core //Mostly Back-end stuff// ( Encore_ClanManager )
 
 
 ## ***** Core ***** ##
-## 1. To code a radar ( Encore_Radar )
-## 2. To code a Speedometer ( Encore_Speedometer )
-## 3. To code a duel system ( Encore_Duel )
-## 4. To code a spectators system ( Encore_Spectators )
+1. To code a radar ( Encore_Radar )
+2. To code a Speedometer ( Encore_Speedometer )
+3. To code a duel system ( Encore_Duel )
+4. To code a spectators system ( Encore_Spectators )
 
 ## ***** Tasks Schedule ***** ##
 ## Every single task must be done as soon as possible, we're not willing to wait over 2-3 months for a server.
@@ -25,5 +25,5 @@
 
 
 
-## Best Regards, Albourn
+### Best Regards, Albourn
 ### Inactive on the server development until website gets done.
